@@ -1,0 +1,454 @@
+
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7 " lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8 " lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html class="" lang="en-US">
+<!--<![endif]-->
+<head>
+<meta name="msvalidate.01" content="EEB84B25048717EB5EC392CAEFE8DDD8"/>
+<title>Clutch Magazine | Smart &amp; Fly | clutchmagonline.com</title>
+<link rel="profile" href="//gmpg.org/xfn/11"/>
+<link rel="alternate" type="application/rss+xml" title="Clutch Magazine RSS Feed" href="//www.clutchmagonline.com/feed/"/>
+<link rel="pingback" href="//www.clutchmagonline.com/xmlrpc.php"/>
+<meta charset="UTF-8"/>
+<script src="//route.carambo.la/inimage/getlayer?pid=stnmd45" id="carambola_proxy" type="text/javascript"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1774544-11', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6035233" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+<img src="//b.scorecardresearch.com/p?c1=2&c2=6035233&cv=2.0&cj=1"/>
+</noscript>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<script type="text/javascript" src="//storage.cloud.kargo.com/ad/network/tag/v3/_jK-japuVwq41KnaZdE1ux0b.js" async="true"></script>
+<script type="text/javascript">
+(function(w){
+  (w.Kargo = w.Kargo || {}).target_params = {
+  };
+  (w.Kargo.setTargetParams || function(){})();
+})(window);
+</script>
+ 
+ 
+ 
+<meta name="robots" content="noindex,follow"/>
+<meta name="keywords" content="clutch magazine, clutch mag, black hairstyles, black women, natural hair, black health, Black Culture, black lifestyle, Black Women Commentary, Entertainment News, Celebrity News"/>
+<link rel="canonical" href="http://www.clutchmagonline.com/page/4/"/>
+<link rel="prev" href="//www.clutchmagonline.com/page/3/"/>
+<link rel="next" href="//www.clutchmagonline.com/page/5/"/>
+<script type="application/ld+json">{ "@context": "http://schema.org", "@type": "WebSite", "url": "http://www.clutchmagonline.com/", "potentialAction": { "@type": "SearchAction", "target": "http://www.clutchmagonline.com/?s={search_term}", "query-input": "required name=search_term" } }</script>
+ 
+<link rel="alternate" type="application/rss+xml" title="Clutch Magazine &raquo; Feed" href="//www.clutchmagonline.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Clutch Magazine &raquo; Comments Feed" href="//www.clutchmagonline.com/comments/feed/"/>
+<link rel='stylesheet' id='advpsStyleSheet-css' href='//www.clutchmagonline.com/wp-content/plugins/advanced-post-slider/advps-style.css?ver=4.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='doctypes_styles-css' href='//www.clutchmagonline.com/wp-content/plugins/kk-social-share-starter/kk-social-share-starter.css?ver=4.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='wpcf-css' href='//www.clutchmagonline.com/wp-content/plugins/wp-contact-form/wpcf.css?ver=20110218' type='text/css' media='all'/>
+<link rel='stylesheet' id='wp-email-css' href='//www.clutchmagonline.com/wp-content/plugins/wp-email/email-css.css?ver=2.60' type='text/css' media='all'/>
+<link rel='stylesheet' id='style-main-css' href='//www.clutchmagonline.com/wp-content/themes/clutch1000/style.css?ver=1420501626' type='text/css' media='all'/>
+<link rel='stylesheet' id='font-awesome-css' href='//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all'/>
+<link rel='stylesheet' id='jetpack_css-css' href='//www.clutchmagonline.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.3' type='text/css' media='all'/>
+ 
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-1774544-11']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+ 
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js?ver=2.1.1'></script>
+<script type='text/javascript' src='//www.clutchmagonline.com/wp-content/plugins/advanced-post-slider/js/advps.frnt.script.js?ver=4.1'></script>
+<script type='text/javascript' src='//www.clutchmagonline.com/wp-content/plugins/advanced-post-slider/bxslider/jquery.bxslider.min.js?ver=4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var samAjax = {"ajaxurl":"http:\/\/www.clutchmagonline.com\/wp-content\/plugins\/simple-ads-manager\/sam-ajax.php","loadurl":"http:\/\/www.clutchmagonline.com\/wp-content\/plugins\/simple-ads-manager\/sam-ajax-loader.php","load":"","level":"3","mailer":"1","clauses":"YTo0OntzOjI6IldDIjtzOjE3ODoiKElGKHNhLmFkX3VzZXJzID0gMCwgVFJVRSwgKHNhLmFkX3VzZXJzX3VucmVnID0gMSkpKSBBTkQgKChzYS52aWV3X3R5cGUgPSAxKSBPUiAoc2Eudmlld190eXBlID0gMCBBTkQgKHNhLnZpZXdfcGFnZXMrMCAmIDEpKSkgQU5EIChzYS5hZF9jYXRzID0gMCkgIEFORCAoc2EuYWRfYXV0aG9ycyA9IDApICAgICAgICI7czozOiJXQ1QiO3M6MzYyOiIgQU5EIElGKHNhLmFkX3NjaGVkdWxlLCBDVVJEQVRFKCkgQkVUV0VFTiBzYS5hZF9zdGFydF9kYXRlIEFORCBzYS5hZF9lbmRfZGF0ZSwgVFJVRSkgQU5EIElGKHNhLmxpbWl0X2hpdHMsIHNhLmhpdHNfbGltaXQgPiAoU0VMRUNUIElGTlVMTChDT1VOVCgqKSwgMCkgRlJPTSB3cF9zYW1fc3RhdHMgc3MgV0hFUkUgc3MuaWQgPSBzYS5pZCBBTkQgc3MuZXZlbnRfdHlwZSA9IDApLCBUUlVFKSBBTkQgSUYoc2EubGltaXRfY2xpY2tzLCBzYS5jbGlja3NfbGltaXQgPiAoU0VMRUNUIElGTlVMTChDT1VOVCgqKSwgMCkgRlJPTSB3cF9zYW1fc3RhdHMgc3MgV0hFUkUgc3MuaWQgPSBzYS5pZCBBTkQgc3MuZXZlbnRfdHlwZSA9IDEpLCBUUlVFKSI7czozOiJXQ1ciO3M6ODA6IiBBTkQgSUYoc2EuYWRfd2VpZ2h0ID4gMCwgKHNhLmFkX3dlaWdodF9oaXRzKjEwLyhzYS5hZF93ZWlnaHQqMTAwMCkpIDwgMSwgRkFMU0UpIjtzOjQ6IldDMlciO3M6MjI6IkFORCAoc2EuYWRfd2VpZ2h0ID4gMCkiO30=","doStats":"1","container":"sam-container","place":"sam-place","ad":"sam-ad"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.clutchmagonline.com/wp-content/plugins/simple-ads-manager/js/sam-layout.min.js?ver=2.5.94'></script>
+<script type='text/javascript' src='//www.clutchmagonline.com/wp-content/themes/clutch1000/js/jquery-ias.min.js'></script>
+<script type='text/javascript' src='//www.clutchmagonline.com/wp-content/themes/clutch1000/js/ias.js'></script>
+<script type='text/javascript' src='//www.clutchmagonline.com/wp-content/themes/clutch1000/js/jquery.sharrre-1.3.5.min.js'></script>
+<script type='text/javascript' src='//www.clutchmagonline.com/wp-content/themes/clutch1000/js/scrollup.js'></script>
+<script type='text/javascript' src='//www.clutchmagonline.com/wp-content/themes/clutch1000/js/jquery.hcsticky-min.js'></script>
+<script type='text/javascript' src='//www.clutchmagonline.com/wp-content/themes/clutch1000/js/childscripts.js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="//www.clutchmagonline.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="//www.clutchmagonline.com/wp-includes/wlwmanifest.xml"/>
+<meta name="generator" content="WordPress 4.1"/>
+<link rel='shortlink' href='//wp.me/1IA5A'/>
+ <link rel="apple-touch-icon-precomposed" href=http://www.clutchmagonline.com/wp-content/uploads/2014/02/favicon-152.png><meta name="msapplication-TileColor" content="#FFFFFF"><meta name="msapplication-TileImage" content="http://www.clutchmagonline.com/wp-content/uploads/2014/02/favicon-144.png"> <link rel="apple-touch-icon-precomposed" sizes="120x120" href="//www.clutchmagonline.com/wp-content/uploads/2014/02/favicon-120.png"> <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//www.clutchmagonline.com/wp-content/uploads/2014/02/favicon-72.png"> <link rel="apple-touch-icon-precomposed" href="//www.clutchmagonline.com/wp-content/uploads/2014/02/favicon-57.png"> <style type='text/css'>img#wpstats{display:none}</style><link rel="shortcut icon" href="//www.clutchmagonline.com/wp-content/themes/clutch1000/favicon.ico"></head>
+<body class="home blog paged paged-4">
+<div class="ad-top">
+<div id="enhancedtextwidget-21" class="twidget widget_text enhanced-text-widget"><div class="textwidget widget-text"><div class="pushdown">
+<script type="text/javascript" language="javascript" src="//www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&affiliateId=1736731058&adSize=970x66"></script>
+</div></div></div><div id="enhancedtextwidget-15" class="twidget widget_text enhanced-text-widget"><div class="textwidget widget-text"><div class="leaderboard">
+<script type="text/javascript" language="javascript" src="//www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&affiliateId=1736731058&adSize=728x90"></script>
+</div></div></div></div>
+<div class="fullrap">
+<header id="masthead" class="site-header clearfix">
+<nav id="site-navigation" class="navigation main-navigation " role="navigation">
+<div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav-menu"><li id="menu-item-231543" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231543"><a href="http://www.clutchmagonline.com/fashion/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/fashion/', 'Fashion']);">Fashion</a></li>
+<li id="menu-item-231536" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-231536"><a href="http://www.clutchmagonline.com/beauty/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/beauty/', 'Beauty']);">Beauty</a>
+<ul class="sub-menu">
+<li id="menu-item-231537" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231537"><a href="http://www.clutchmagonline.com/beauty/makeup/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/beauty/makeup/', 'Makeup']);">Makeup</a></li>
+<li id="menu-item-231538" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231538"><a href="http://www.clutchmagonline.com/beauty/nails/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/beauty/nails/', 'Nails']);">Nails</a></li>
+<li id="menu-item-231539" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231539"><a href="http://www.clutchmagonline.com/beauty/skincare/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/beauty/skincare/', 'Skin Care']);">Skin Care</a></li>
+</ul>
+</li>
+<li id="menu-item-231494" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-231494"><a href="http://www.clutchmagonline.com/hair/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/hair/', 'Hair']);">Hair</a>
+<ul class="sub-menu">
+<li id="menu-item-231546" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231546"><a href="http://www.clutchmagonline.com/hair/natural/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/hair/natural/', 'Natural']);">Natural</a></li>
+<li id="menu-item-231547" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231547"><a href="http://www.clutchmagonline.com/hair/relaxed/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/hair/relaxed/', 'Relaxed']);">Relaxed</a></li>
+<li id="menu-item-231548" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231548"><a href="http://www.clutchmagonline.com/hair/wigs-and-weaves/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/hair/wigs-and-weaves/', 'Wigs &amp; Weaves']);">Wigs &#038; Weaves</a></li>
+</ul>
+</li>
+<li id="menu-item-231492" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-231492"><a href="http://www.clutchmagonline.com/living/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/living/', 'Living']);">Living</a>
+<ul class="sub-menu">
+<li id="menu-item-232109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-232109"><a href="http://www.clutchmagonline.com/living/art-and-books/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/living/art-and-books/', 'Art &amp; Books']);">Art &#038; Books</a></li>
+<li id="menu-item-231553" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231553"><a href="http://www.clutchmagonline.com/living/sex-and-relationships/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/living/sex-and-relationships/', 'Sex &amp; Relationships']);">Sex &#038; Relationships</a></li>
+<li id="menu-item-231555" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231555"><a href="http://www.clutchmagonline.com/living/work-and-money/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/living/work-and-money/', 'Work &amp; Money']);">Work &#038; Money</a></li>
+<li id="menu-item-231554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231554"><a href="http://www.clutchmagonline.com/living/travel/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/living/travel/', 'Travel']);">Travel</a></li>
+</ul>
+</li>
+<li id="menu-item-231580" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-231580"><a href="http://www.clutchmagonline.com/health/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/health/', 'Health']);">Health</a>
+<ul class="sub-menu">
+<li id="menu-item-231550" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231550"><a href="http://www.clutchmagonline.com/health/diet-and-nutrition/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/health/diet-and-nutrition/', 'Diet &amp; Nutrition']);">Diet &#038; Nutrition</a></li>
+<li id="menu-item-231551" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231551"><a href="http://www.clutchmagonline.com/health/fitness/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/health/fitness/', 'Fitness']);">Fitness</a></li>
+<li id="menu-item-231581" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231581"><a href="http://www.clutchmagonline.com/health/wellness/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/health/wellness/', 'Wellness']);">Wellness</a></li>
+</ul>
+</li>
+<li id="menu-item-231491" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231491"><a href="http://www.clutchmagonline.com/entertainment/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/entertainment/', 'Entertainment']);">Entertainment</a></li>
+<li id="menu-item-232060" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-232060"><a href="http://www.clutchmagonline.com/news-and-opinion/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/news-and-opinion/', 'News &amp; Opinion']);">News &#038; Opinion</a>
+<ul class="sub-menu">
+<li id="menu-item-232045" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-232045"><a href="http://www.clutchmagonline.com/news-and-opinion/news/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/news-and-opinion/news/', 'News']);">News</a></li>
+<li id="menu-item-231535" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231535"><a href="http://www.clutchmagonline.com/news-and-opinion/international/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/news-and-opinion/international/', 'International']);">International</a></li>
+</ul>
+</li>
+</ul></div> </nav> 
+<a class="thelogo" href="http://www.clutchmagonline.com/" title="Clutch Magazine" rel="home"></a>
+<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
+<form role="search" method="get" class="search-form" action="//www.clutchmagonline.com/">
+<label>
+<span class="screen-reader-text">Search for:</span>
+<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:"/>
+</label>
+<input type="submit" class="search-submit" value="Search"/>
+</form> <div class="socialicons">
+<a href="https://www.facebook.com/clutchmagazineonline" title="Facebook"><i class="fa fa-facebook fa-lg"></i></a>
+<a href="http://twitter.com/clutchmagazine" title="Twitter"><i class="fa fa-twitter fa-lg"></i></a>
+<a href="http://clutchmag.tumblr.com/" title="Tumblr"><i class="fa fa-tumblr fa-lg"></i></a>
+<a href="http://pinterest.com/clutchmag/" title="Pinterest"><i class="fa fa-pinterest fa-lg"></i></a>
+<a href="https://plus.google.com/+Clutchmagonline/" title="Instagram"><i class="fa fa-google-plus fa-lg"></i></a>
+  <a title="Login" href="http://www.clutchmagonline.com/wp-login.php?redirect_to=%2Fpage%2F4%2F"><i class="iconalt fa fa-user fa-lg"></i></a> </div>
+</header> 
+<div class="rap clearfix">
+<div id="content" class="clearfix">
+<div id="ourposts" class="clear clearfix col3 box">
+<div class="theresults">
+<h3 class="fl"><i class="fa fa-calendar"></i> Saturday Jan 31st 2015</h3>
+<a class="fr subt" href="news/">More News <i class="fa fa-angle-right"></i></a>
+</div>
+<div id="post-243761" class="post-243761 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-darren-wilson tag-ferguson tag-michael-brown apost sarch clearfix">
+<div class="txt">
+<div class="thumb"><a href="http://www.clutchmagonline.com/2015/01/federal-prosecutors-set-to-clear-darren-wilson-of-civil-rights-charges-in-michael-brown-shooting/" title="Federal Prosecutors Set to Clear Darren Wilson Of Civil Rights Charges In Michael Brown Shooting">
+<img src="//i1.wp.com/www.clutchmagonline.com/wp-content/uploads/2015/01/141125-darren-wilson-hospital-02_f649b5ebfb8078242cb01614005f6c97.jpg?resize=220%2C220" class="attachment-thumbnail wp-post-image" alt="141125-darren-wilson-hospital-02_f649b5ebfb8078242cb01614005f6c97"/> </a>
+</div>
+<div class="comcat alt">
+<div class="thecategory"><a href="http://www.clutchmagonline.com/category/news">News</a></div>
+<div class="commentsnum"><a href="http://www.clutchmagonline.com/2015/01/federal-prosecutors-set-to-clear-darren-wilson-of-civil-rights-charges-in-michael-brown-shooting/#comments" title="Comment on Federal Prosecutors Set to Clear Darren Wilson Of Civil Rights Charges In Michael Brown Shooting"><span class="dsq-postid" data-dsqidentifier="243761 http://www.clutchmagonline.com/?p=243761"><i class="fa fa-comment"></i> 12</span></a></div>
+<div class="shareme" data-url="http://www.clutchmagonline.com/2015/01/federal-prosecutors-set-to-clear-darren-wilson-of-civil-rights-charges-in-michael-brown-shooting/" data-text="Federal Prosecutors Set to Clear Darren Wilson Of Civil Rights Charges In Michael Brown Shooting"></div>
+</div>
+<a href="http://www.clutchmagonline.com/2015/01/federal-prosecutors-set-to-clear-darren-wilson-of-civil-rights-charges-in-michael-brown-shooting/" title="Federal Prosecutors Set to Clear Darren Wilson Of Civil Rights Charges In Michael Brown Shooting"><h2 class="post-title">Federal Prosecutors Set to Clear Darren Wilson Of Civil Rights Charges In Michael Brown Shooting</h2></a><div class="credit">by <a href="http://www.clutchmagonline.com/author/clutch/" title="Posts by Clutch" rel="author">Clutch</a> <span class="postdate date updated">1 week ago</span></div>
+<div class="post-excerpt">The New York Times is reporting that the Department of Justice is preparing a legal memo to clear Darren Wilson, the Ferguson police officer who fatally shot Michael Brown last August. The Times notes, however, a final decision has yet to be officially announced. From...</div>
+</div>
+</div>
+<div id="post-243739" class="post-243739 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-race tag-video apost sarch clearfix">
+<div class="txt">
+<div class="thumb"><a href="http://www.clutchmagonline.com/2015/01/watch-ask-someone-race/" title="Watch: How Do You Ask Someone About Their Race?">
+<img src="//i2.wp.com/www.clutchmagonline.com/wp-content/uploads/2015/01/screen-shot-2015-01-14-at-84228-am-54bb2b24.png?resize=220%2C220" class="attachment-thumbnail wp-post-image" alt="screen-shot-2015-01-14-at-84228-am-54bb2b24"/> <i class="fa fa-play-circle-o fa-lg"></i> </a>
+</div>
+<div class="comcat alt">
+<div class="thecategory"><a href="http://www.clutchmagonline.com/category/news">News</a></div>
+<div class="commentsnum"><a href="http://www.clutchmagonline.com/2015/01/watch-ask-someone-race/#comments" title="Comment on Watch: How Do You Ask Someone About Their Race?"><span class="dsq-postid" data-dsqidentifier="243739 http://www.clutchmagonline.com/?p=243739"><i class="fa fa-comment"></i> 20</span></a></div>
+<div class="shareme" data-url="http://www.clutchmagonline.com/2015/01/watch-ask-someone-race/" data-text="Watch: How Do You Ask Someone About Their Race?"></div>
+</div>
+<a href="http://www.clutchmagonline.com/2015/01/watch-ask-someone-race/" title="Watch: How Do You Ask Someone About Their Race?"><h2 class="post-title">Watch: How Do You Ask Someone About Their Race?</h2></a><div class="credit">by <a href="http://www.clutchmagonline.com/author/clutch/" title="Posts by Clutch" rel="author">Clutch</a> <span class="postdate date updated">2 weeks ago</span></div>
+<div class="post-excerpt">Ever been asked, &#8220;So&#8230; what are you?&#8221; Here&#8217;s how to throw self-censorship out the window and open up a deeper conversation. And it might just lead you to re-examine why you are even asking the question in the first place.&#8211; Amani Hayes-Messinger / Moral Courage...</div>
+</div>
+</div>
+<div id="post-243728" class="post-243728 post type-post status-publish format-standard has-post-thumbnail hentry category-hair tag-curly-hair tag-dove tag-dove-hair tag-hair-2 tag-study apost sarch clearfix">
+<div class="txt">
+<div class="thumb"><a href="http://www.clutchmagonline.com/2015/01/dove-hair-wants-girls-women-loveyourcurls/" title="Dove Hair Wants Girls (and Women) to #LoveYourCurls">
+<img src="//i2.wp.com/www.clutchmagonline.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-20-at-1.02.58-PM.png?resize=220%2C220" class="attachment-thumbnail wp-post-image" alt="Screen Shot 2015-01-20 at 1.02.58 PM"/> </a>
+</div>
+<div class="comcat alt">
+<div class="thecategory"><a href="http://www.clutchmagonline.com/category/hair">Hair</a></div>
+<div class="commentsnum"><a href="http://www.clutchmagonline.com/2015/01/dove-hair-wants-girls-women-loveyourcurls/#comments" title="Comment on Dove Hair Wants Girls (and Women) to #LoveYourCurls"><span class="dsq-postid" data-dsqidentifier="243728 http://www.clutchmagonline.com/?p=243728"><i class="fa fa-comment"></i> 23</span></a></div>
+<div class="shareme" data-url="http://www.clutchmagonline.com/2015/01/dove-hair-wants-girls-women-loveyourcurls/" data-text="Dove Hair Wants Girls (and Women) to #LoveYourCurls"></div>
+</div>
+<a href="http://www.clutchmagonline.com/2015/01/dove-hair-wants-girls-women-loveyourcurls/" title="Dove Hair Wants Girls (and Women) to #LoveYourCurls"><h2 class="post-title">Dove Hair Wants Girls (and Women) to #LoveYourCurls</h2></a><div class="credit">by <a href="http://www.clutchmagonline.com/author/clutch/" title="Posts by Clutch" rel="author">Clutch</a> <span class="postdate date updated">2 weeks ago</span></div>
+<div class="post-excerpt">Dove Hair has launched a new campaign to help celebrate, inspire and encourage both women and girls with curly hair to love their curls. The &#8216;Love Your Curls&#8217; #loveyourcurls initiative aims on encouraging young girls of all backgrounds to be proud of their curly hair....</div>
+</div>
+</div>
+<div id="post-243723" class="post-243723 post type-post status-publish format-standard has-post-thumbnail hentry category-news tag-florida apost sarch clearfix">
+<div class="txt">
+<div class="thumb"><a href="http://www.clutchmagonline.com/2015/01/florida-police-stop-using-mug-shots-target-practice/" title="Florida Police To Stop Using Mug Shots For Target Practice">
+<img src="//i1.wp.com/www.clutchmagonline.com/wp-content/uploads/2015/01/B7bZPRSCcAEdC2T.jpg?resize=220%2C220" class="attachment-thumbnail wp-post-image" alt="B7bZPRSCcAEdC2T"/> </a>
+</div>
+<div class="comcat alt">
+<div class="thecategory"><a href="http://www.clutchmagonline.com/category/news">News</a></div>
+<div class="commentsnum"><a href="http://www.clutchmagonline.com/2015/01/florida-police-stop-using-mug-shots-target-practice/#comments" title="Comment on Florida Police To Stop Using Mug Shots For Target Practice"><span class="dsq-postid" data-dsqidentifier="243723 http://www.clutchmagonline.com/?p=243723"><i class="fa fa-comment"></i> 4</span></a></div>
+<div class="shareme" data-url="http://www.clutchmagonline.com/2015/01/florida-police-stop-using-mug-shots-target-practice/" data-text="Florida Police To Stop Using Mug Shots For Target Practice"></div>
+</div>
+<a href="http://www.clutchmagonline.com/2015/01/florida-police-stop-using-mug-shots-target-practice/" title="Florida Police To Stop Using Mug Shots For Target Practice"><h2 class="post-title">Florida Police To Stop Using Mug Shots For Target Practice</h2></a><div class="credit">by <a href="http://www.clutchmagonline.com/author/clutch/" title="Posts by Clutch" rel="author">Clutch</a> <span class="postdate date updated">2 weeks ago</span></div>
+<div class="post-excerpt">Earlier this week we reported that the North Miami Beach Police Department were caught using real-life suspect photos of Black men for target practice &#8212; well now thanks to Mayor George Vallejo this offensive practice is now banned. After learning about the incident involving Woody...</div>
+</div>
+</div>
+<div id="post-243692" class="post-243692 post type-post status-publish format-standard has-post-thumbnail hentry category-entertainment tag-bill-duke tag-light-girls tag-own tag-video apost sarch clearfix">
+<div class="txt">
+<div class="thumb"><a href="http://www.clutchmagonline.com/2015/01/so-what-are-you-the-question-light-skinned-black-women-say-theyre-always-asked/" title="&#8220;So, What Are You?&#8221; The Question Light-Skinned Black Women Say They&#8217;re Always Asked">
+<img src="//i1.wp.com/www.clutchmagonline.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-19-at-3.45.12-PM-e1421700373655.png?resize=220%2C220" class="attachment-thumbnail wp-post-image" alt="Screen Shot 2015-01-19 at 3.45.12 PM"/> <i class="fa fa-play-circle-o fa-lg"></i> </a>
+</div>
+<div class="comcat alt">
+<div class="thecategory"><a href="http://www.clutchmagonline.com/category/entertainment">Entertainment</a></div>
+<div class="commentsnum"><a href="http://www.clutchmagonline.com/2015/01/so-what-are-you-the-question-light-skinned-black-women-say-theyre-always-asked/#comments" title="Comment on &#8220;So, What Are You?&#8221; The Question Light-Skinned Black Women Say They&#8217;re Always Asked"><span class="dsq-postid" data-dsqidentifier="243692 http://www.clutchmagonline.com/?p=243692"><i class="fa fa-comment"></i> 37</span></a></div>
+<div class="shareme" data-url="http://www.clutchmagonline.com/2015/01/so-what-are-you-the-question-light-skinned-black-women-say-theyre-always-asked/" data-text="&#8220;So, What Are You?&#8221; The Question Light-Skinned Black Women Say They&#8217;re Always Asked"></div>
+</div>
+<a href="http://www.clutchmagonline.com/2015/01/so-what-are-you-the-question-light-skinned-black-women-say-theyre-always-asked/" title="&#8220;So, What Are You?&#8221; The Question Light-Skinned Black Women Say They&#8217;re Always Asked"><h2 class="post-title">&#8220;So, What Are You?&#8221; The Question Light-Skinned Black Women Say They&#8217;re Always Asked</h2></a><div class="credit">by <a href="http://www.clutchmagonline.com/author/clutch/" title="Posts by Clutch" rel="author">Clutch</a> <span class="postdate date updated">2 weeks ago</span></div>
+<div class="post-excerpt">&#160; There&#8217;s a safety in being able to categorize you or categorize a person&#8221; &#8220;You can assign all of your preconceived ideas about who this person is: the type of person they are, what kind of behavior you can expect from them &#8212; only if...</div>
+</div>
+<div class="sidebararchive clearfix">
+<div id="enhancedtextwidget-24" class="center widget widget_text enhanced-text-widget"><div class="textwidget widget-text"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4490002161143424" data-ad-slot="4723772403"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div>
+</div> </div>
+<div id="post-54141" class="post-54141 post type-post status-publish format-standard has-post-thumbnail hentry category-news-and-opinion tag-amber-rose tag-race apost sarch clearfix">
+<div class="txt">
+<div class="thumb"><a href="http://www.clutchmagonline.com/2015/01/is-she-even-black/" title="&#8220;Is She Even Black?&#8221;">
+<img src="//i0.wp.com/www.clutchmagonline.com/wp-content/uploads/2010/09/Amber-Rose-4.jpg?resize=220%2C220" class="attachment-thumbnail wp-post-image" alt="Amber Rose, Kid Capri, Vikter Duplaix, And Cast Celebrate Premiere Of Smirnoff&#039;s Master Of The Mix In NYC"/> </a>
+</div>
+<div class="comcat alt">
+<div class="thecategory"><a href="http://www.clutchmagonline.com/category/news-and-opinion">News &amp; Opinion</a></div>
+<div class="commentsnum"><a href="http://www.clutchmagonline.com/2015/01/is-she-even-black/#comments" title="Comment on &#8220;Is She Even Black?&#8221;"><span class="dsq-postid" data-dsqidentifier="54141 http://clutchmagonline.com/?p=54141"><i class="fa fa-comment"></i> 339</span></a></div>
+<div class="shareme" data-url="http://www.clutchmagonline.com/2015/01/is-she-even-black/" data-text="&#8220;Is She Even Black?&#8221;"></div>
+</div>
+<a href="http://www.clutchmagonline.com/2015/01/is-she-even-black/" title="&#8220;Is She Even Black?&#8221;"><h2 class="post-title">&#8220;Is She Even Black?&#8221;</h2></a><div class="credit">by <a href="http://www.clutchmagonline.com/author/genevas-thomas/" title="Posts by Geneva S. Thomas" rel="author">Geneva S. Thomas</a> <span class="postdate date updated">2 weeks ago</span></div>
+<div class="post-excerpt">Originally Published in September 2010 Zoe Saldana, Amber Rose, Sessilee Lopez. These are women who identify themselves as Black, but, for many of us, the question that follows them in the context of Black culture, fashion, and beauty is, &#8220;Is she even Black?&#8221; The tenor...</div>
+</div>
+</div>
+<div class="loadmore hide"><a href="http://www.clutchmagonline.com/page/5/">Load More</a></div>
+</div>
+<div class="sidebar corner-stamp clearfix pinned">
+<aside class="theside clearfix ">
+<div class="col-group clearfix">
+<div id="enhancedtextwidget-4" class="widget widget_text enhanced-text-widget"><div class="textwidget widget-text"><script type="text/javascript" language="javascript" src="//www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&affiliateId=1736731058&adSize=300x250"></script></div></div><div id="enhancedtextwidget-26" class="center widget widget_text enhanced-text-widget"><div class="textwidget widget-text"><script type="text/javascript" language="javascript" src="//www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&affiliateId=1736731058&adSize=160x600"></script>
+</div></div><div id="enhancedtextwidget-34" class="widget widget_text enhanced-text-widget"><h4 class="widget-title"><i class="fa fa-eye"></i> LOOK HERE</h4><div class="textwidget widget-text"> 
+<style>#advps_container4 .bx-wrapper .bx-viewport{border:1px solid #dddddd;background:#FFFFFF;}#advps_container4 .bx-wrapper .bx-pager{text-align:center;;}#advps_container4 .bx-wrapper .bx-pager{bottom:-35px;z-index:999;}#advps_container4 .bx-wrapper .bx-controls-auto{bottom:6px;}#advps_container4 .bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-pager{text-align:center;}#advps_container4 .bx-wrapper .bx-controls-auto{z-index:99999;text-align:center;width:100%;}#advps_container4 .bx-wrapper .bx-pager.bx-default-pager a{background:#666;text-indent:-9999px;display:block;width:10px;height:10px;margin:0 5px;outline:0;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;text-align:left;}#advps_container4 .bx-wrapper .bx-pager.bx-default-pager a:hover,#advps_container4 .bx-wrapper .bx-pager.bx-default-pager a.active{background:#000;}#advps_container4 #bx-pager{width:100%;position:absolute;bottom:-35px;text-align:center;z-index:9999;}#advps_container4 #bx-pager a img{border:1px solid #CCCCCC;padding:3px;}#advps_container4 #bx-pager a:hover img,#advps_container4 #bx-pager a.active img{border:1px solid #666666;}</style>
+<script type="text/javascript">
+		jQuery(document).ready(function($){
+			$('#advpsslideshow_4').bxSlider({
+				useCSS:1,
+				slideMargin: 0,
+				speed: 300,				
+								mode: 'horizontal',
+												auto: 1,
+				autoHover: 1,
+				pause: 4000,
+				easing: 'linear',
+				controls: 0,
+				pager: 1,
+  				autoControls: 0							});
+							$("#advpsslideshow_4 .advs-title a").hover(function(){
+					$(this).css('color','#000000');
+				},function(){
+					$(this).css('color','#565656');
+				});
+						$("#advpsslideshow_4 .advps-slide").hover(function(){
+				  			},function(){
+							});
+		});
+	</script>
+<div id="advps_container4" class="advps-slide-container" style="max-width:290px;">
+<div id="advpsslideshow_4">
+<div class="advps-slide">
+<div class="advps-slide-field-three" style="position:relative;float:left;padding:40px 40px 20px 40px;">
+<a target="_self" href="http://www.clutchmagonline.com/2015/01/rihanna-rocks-box-braids-d-magazines-music-issue-cover/"> <img src="//i1.wp.com/www.clutchmagonline.com/wp-content/uploads/2015/01/rihanna-id-magazine-cover-ftr.jpg?resize=220%2C220" class="attachment-thumbnail wp-post-image" alt="rihanna-id-magazine-cover-ftr"/> </a> <div class="advps-excerpt-three" style="position:relative;float:left;max-width:218px;z-index:0; color:#444444; font-size:1vw;line-height:1vw;">
+<div class="advs-title" style="color:#565656;font-size:1.5vw;line-height:1.6vw;margin:5px 0px 10px 0px;"> <a target="_self" href="http://www.clutchmagonline.com/2015/01/rihanna-rocks-box-braids-d-magazines-music-issue-cover/" style="color:#565656;font-size:1.5vw;line-height:1.6vw;margin:5px 0px 10px 0px;"> Rihanna Rocks Box Braids on ‘i-D’ Magazine’s ‘Music Issue’ Cover </a></div> </div>
+</div>
+</div>
+<div class="advps-slide">
+<div class="advps-slide-field-three" style="position:relative;float:left;padding:40px 40px 20px 40px;">
+<a target="_self" href="http://www.clutchmagonline.com/2015/01/pretty-documentary-series-explores-black-women-view-beauty-globally/"> <img src="//i2.wp.com/www.clutchmagonline.com/wp-content/uploads/2015/01/unnamed.jpg?resize=220%2C220" class="attachment-thumbnail wp-post-image" alt="unnamed"/> </a> <div class="advps-excerpt-three" style="position:relative;float:left;max-width:218px;z-index:0; color:#444444; font-size:1vw;line-height:1vw;">
+<div class="advs-title" style="color:#565656;font-size:1.5vw;line-height:1.6vw;margin:5px 0px 10px 0px;"> <a target="_self" href="http://www.clutchmagonline.com/2015/01/pretty-documentary-series-explores-black-women-view-beauty-globally/" style="color:#565656;font-size:1.5vw;line-height:1.6vw;margin:5px 0px 10px 0px;"> &#8220;Pretty&#8221; Documentary Series Explores How Black Women View Beauty Globally </a></div> </div>
+</div>
+</div>
+<div class="advps-slide">
+<div class="advps-slide-field-three" style="position:relative;float:left;padding:40px 40px 20px 40px;">
+<a target="_self" href="http://www.clutchmagonline.com/2015/01/watch-nicki-minaj-stuns-roberto-cavalli-fashion-campaign/"> <img src="//i2.wp.com/www.clutchmagonline.com/wp-content/uploads/2015/01/image.jpg?resize=220%2C220" class="attachment-thumbnail wp-post-image" alt="image"/> </a> <div class="advps-excerpt-three" style="position:relative;float:left;max-width:218px;z-index:0; color:#444444; font-size:1vw;line-height:1vw;">
+<div class="advs-title" style="color:#565656;font-size:1.5vw;line-height:1.6vw;margin:5px 0px 10px 0px;"> <a target="_self" href="http://www.clutchmagonline.com/2015/01/watch-nicki-minaj-stuns-roberto-cavalli-fashion-campaign/" style="color:#565656;font-size:1.5vw;line-height:1.6vw;margin:5px 0px 10px 0px;"> Watch: Nicki Minaj Stuns in Roberto Cavalli Fashion Campaign </a></div> </div>
+</div>
+</div>
+<div class="advps-slide">
+<div class="advps-slide-field-three" style="position:relative;float:left;padding:40px 40px 20px 40px;">
+<a target="_self" href="http://www.clutchmagonline.com/2015/01/nike-releases-2015-black-history-month-collection/"> <img src="//i2.wp.com/www.clutchmagonline.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-09-at-5.31.41-PM.png?resize=220%2C220" class="attachment-thumbnail wp-post-image" alt="Screen Shot 2015-01-09 at 5.31.41 PM"/> </a> <div class="advps-excerpt-three" style="position:relative;float:left;max-width:218px;z-index:0; color:#444444; font-size:1vw;line-height:1vw;">
+<div class="advs-title" style="color:#565656;font-size:1.5vw;line-height:1.6vw;margin:5px 0px 10px 0px;"> <a target="_self" href="http://www.clutchmagonline.com/2015/01/nike-releases-2015-black-history-month-collection/" style="color:#565656;font-size:1.5vw;line-height:1.6vw;margin:5px 0px 10px 0px;"> Nike Releases The 2015 Black History Month Collection </a></div> </div>
+</div>
+</div>
+</div>
+</div> 
+ 
+</div></div><div id="enhancedtextwidget-23" class="dark widget widget_text enhanced-text-widget"><h4 class="widget-title"><i class="fa fa-facebook"></i> DO YOU LIKE US?</h4><div class="textwidget widget-text"><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fclutchmagazineonline&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=21&amp;appId=174007556849" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px; width:82px;" allowTransparency="true"></iframe></div></div><div id="enhancedtextwidget-13" class="widget widget_text enhanced-text-widget"><div class="textwidget widget-text"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-4490002161143424" data-ad-slot="4723772403"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div><div id="enhancedtextwidget-33" class="widget widget_text enhanced-text-widget"><div class="textwidget widget-text"><script type='text/javascript'>
+var _CI = _CI || {};
+(function() {
+var script = document.createElement('script');
+ref = document.getElementsByTagName('script')[0];
+_CI.counter = (_CI.counter) ? _CI.counter + 1 : 1;
+document.write('<div id="_CI_widget_');
+document.write(_CI.counter+'"></div>');
+script.type = 'text/javascript';
+script.src = 'http://widget.crowdignite.com/widgets/33259?v=2&_ci_wid=_CI_widget_'+_CI.counter;
+script.async = true;
+ref.parentNode.insertBefore(script, ref);
+})(); </script>
+<style>#_ci_widget_div_33259{background:#ec0059;display:inline-block;height:auto;line-height:.8em;padding:0 20px 10px;width:260px;}#_ci_widget_div_33259:before{color:#fff;content:'From our partners';display:block;font-family:'Open Sans',Arial,sans-serif;font-size:22px;font-weight:300;line-height:21px;padding:20px 0 10px;text-transform:uppercase;}#_ci_widget_div_33259 ul{-webkit-margin-after:0;-webkit-margin-before:0;-webkit-padding-start:0;display:inline-block;height:auto;list-style-type:none;margin-left:0;padding-left:0;width:260px;}#_ci_widget_div_33259 ul li{border-bottom:1px dotted #ec0059;float:left;line-height:.8em;list-style-type:none;padding:12px 0 10px;vertical-align:top;width:260px;}#_ci_widget_div_33259 ul li:first-child{margin-left:0;}#_ci_widget_div_33259 ul li>a img{-moz-border-radius:0;-ms-border-radius:0;-webkit-border-radius:0;border-radius:0;display:inline-block;}#_ci_widget_div_33259 .ci_text{display:inline-block;margin:4px 0 0 10px;vertical-align:top;width:120px;}#_ci_widget_div_33259 .ci_text>a{color:#fff;font-family:'Open Sans',Arial,sans-serif;font-size:17px;font-weight:300;line-height:21px;text-decoration:none;}#_ci_widget_div_33259 .ci_text>a:hover{color:#333;}</style></div></div><div id="enhancedtextwidget-31" class="widget widget_text enhanced-text-widget"><div class="textwidget widget-text"> 
+ 
+<script type="text/javascript">
+if (!window.OX_ads) { OX_ads = []; }
+OX_ads.push({ "auid" : "537193252" });
+</script>
+<script type="text/javascript">
+document.write('<scr'+'ipt src="http://ox-d.mirror-digital.com/w/1.0/jstag"><\/scr'+'ipt>');
+</script>
+<noscript><iframe id="dcb8c551f8" name="dcb8c551f8" src="http://ox-d.mirror-digital.com/w/1.0/afr?auid=537193252&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="300" height="250"><a href="http://ox-d.mirror-digital.com/w/1.0/rc?cs=dcb8c551f8&cb=INSERT_RANDOM_NUMBER_HERE"><img src="//ox-d.mirror-digital.com/w/1.0/ai?auid=537193252&cs=dcb8c551f8&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe></noscript></div></div><div id="enhancedtextwidget-35" class="widget widget_text enhanced-text-widget"><div class="textwidget widget-text"><a href="http://kinky-curly.com/" target="_blank"><img class="alignnone size-full wp-image-228039" src="//www.clutchmagonline.com/wp-content/uploads/2014/06/1538263621238705031.jpeg" alt="Kinky-Curly" width="300" height="250"/></a></div></div><div id="enhancedtextwidget-30" class="widget widget_text enhanced-text-widget"><div class="textwidget widget-text"><script type="text/javascript" language="JavaScript">
+glam_affiliate_id = '1736731058';
+</script>
+<script src="//www8.glam.com/js/widgets/glammedia_logo.js"></script></div></div> </div>
+</aside>
+</div> 
+</div>  
+</div> 
+<div class="leaderboard-bot">
+<div id="enhancedtextwidget-17" class="leaderboard twidget widget_text enhanced-text-widget"><div class="textwidget widget-text"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-4490002161143424" data-ad-slot="1770306003"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div>
+<div id="footer">
+<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="nav-menu"><li id="menu-item-214265" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214265"><a href="http://clutchmagonline.com/copyright" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://clutchmagonline.com/copyright', '©2014 Sutton New Media LLC']);">©2014 Sutton New Media LLC</a></li>
+<li id="menu-item-214266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214266"><a href="http://clutchmagonline.com/masthead/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://clutchmagonline.com/masthead/', 'Masthead']);">Masthead</a></li>
+<li id="menu-item-214267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214267"><a href="http://www.clutchmagonline.com/privacy-policy/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://www.clutchmagonline.com/privacy-policy/', 'Privacy']);">Privacy</a></li>
+<li id="menu-item-214268" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214268"><a href="http://clutchmagonline.com/about-clutch/" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://clutchmagonline.com/about-clutch/', 'About']);">About</a></li>
+<li id="menu-item-214269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214269"><a href="http://clutchmagonline.com/contact" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://clutchmagonline.com/contact', 'Contact']);">Contact</a></li>
+<li id="menu-item-214270" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214270"><a href="http://clutchmagonline.com/advertising" onclick="_gaq.push(['_trackEvent', 'outbound-widget-int', 'http://clutchmagonline.com/advertising', 'Advertising']);">Advertising</a></li>
+<li id="menu-item-214271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214271"><a href="http://319heads.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://319heads.com/', 'Design by 319 Heads']);">Design by 319 Heads</a></li>
+</ul></div>
+<a href="#" class="scrollup">Scroll</a>
+</div> 
+ 
+<script type="text/javascript">
+_qoptions={
+qacct:"p-38MkYahszXchE"
+};
+</script>
+<script type="text/javascript" src="//edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="//pixel.quantserve.com/pixel/p-38MkYahszXchE.gif" style="display: none;" height="1" width="1" alt="Quantcast"/>
+</noscript>
+ 
+<script async src='//www.antenna.is/static/engage.js'></script>
+ 
+ 
+<script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'clutchmagonline';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); 
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+  <div style="display:none">
+</div>
+<script type='text/javascript' src='//www.clutchmagonline.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var emailL10n = {"ajax_url":"http:\/\/www.clutchmagonline.com\/wp-admin\/admin-ajax.php","max_allowed":"5","text_error":"The Following Error Occurs:","text_name_invalid":"- Your Name is empty\/invalid","text_email_invalid":"- Your Email is empty\/invalid","text_remarks_invalid":"- Your Remarks is invalid","text_friend_names_empty":"- Friend Name(s) is empty","text_friend_name_invalid":"- Friend Name is empty\/invalid: ","text_max_friend_names_allowed":"- Maximum 5 Friend Names allowed","text_friend_emails_empty":"- Friend Email(s) is empty","text_friend_email_invalid":"- Friend Email is invalid: ","text_max_friend_emails_allowed":"- Maximum 5 Friend Emails allowed","text_friends_tally":"- Friend Name(s) count does not tally with Friend Email(s) count","text_image_verify_empty":"- Image Verification is empty"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.clutchmagonline.com/wp-content/plugins/wp-email/email-js.js?ver=2.63'></script>
+<script type='text/javascript' src='//s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201505'></script>
+<script type='text/javascript' src='//www.clutchmagonline.com/wp-content/themes/clutch1000/js/functions.js?ver=2014-04-05'></script>
+<script src="//stats.wp.com/e-201505.js" type="text/javascript"></script>
+<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.3',blog:'25401498',post:'0',tz:'-5'});
+	var load_cmc = function(){linktracker_init(25401498,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script></div> 
+</body>
+</html>
