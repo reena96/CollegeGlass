@@ -1,0 +1,48 @@
+<html>
+<head>
+<style>
+<div id="menu">
+   <ul>
+      <li><a href="#" title="Home">Home</a></li>
+      <li><a href="#" title="Blog" class="active">Blog</a></li>
+      <li><a href="#" title="About">About</a></li>
+      <li><a href="#" title="Register">Register</a></li>
+      <li><a href="#" title="Contact">Contact</a></li>
+   </ul>
+</div>
+<div id="main">
+   <h3>Main content header</h3>
+   <p>Main content</p>
+</div>
+#menu { margin:40px 0 0 150px; }
+#menu ul { list-style:none; }
+#menu ul li { display:inline; float:left; margin-bottom:20px; }
+#menu ul li a { padding:20px; background: rgba(255,138,30,0.3); text-decoration: none; font: bold 14px Helvetica, Sans-Serif; letter-spacing: -1px; color: #402e16;
+    text-shadow: #eee 0px 0px 2px; }
+#menu ul li:first-child a { -moz-border-radius-topleft: 12px; -webkit-border-top-left-radius:12px; }
+ 
+#menu ul li:last-child a { -moz-border-radius-topright: 12px; -webkit-border-top-right-radius:12px; }
+#menu ul li a:hover { -moz-box-shadow: 0 -5px 10px #777; -webkit-box-shadow: 0 -5px 10px #777;
+   background: -webkit-gradient(
+      linear, right bottom, left top, color-stop(0, rgb(237,227,112)), color-stop(0.72, rgb(255,173,10))) !important;
+   background: -moz-linear-gradient(
+      right bottom, rgb(237,227,112) 0%, rgb(255,173,10) 72%) !important;
+   background-color:rgb(255,173,10) !important;
+   -moz-opacity:.90; filter:alpha(opacity=90); opacity:.90; }
+ 
+/* another RGBA background, now with an opacity of 0.8 */
+</style>
+</head>
+</html>
+#menu ul li a.active { background: rgba(255,138,30,0.8) !important; }
+
+#menu ul li a:hover { -moz-box-shadow: 0 -5px 10px #777; -webkit-box-shadow: 0 -5px 10px #777;
+   background: -webkit-gradient(
+      linear, right bottom, left top, color-stop(0, rgb(237,227,112)), color-stop(0.72, rgb(255,173,10))) !important;
+   background: -moz-linear-gradient(
+      right bottom, rgb(237,227,112) 0%, rgb(255,173,10) 72%) !important;
+   background-color:rgb(255,173,10) !important;
+   -moz-opacity:.90; filter:alpha(opacity=90); opacity:.90; }
+ 
+/* another RGBA background, now with an opacity of 0.8 */
+#menu ul li a.active { background: rgba(255,138,30,0.8) !important; }
